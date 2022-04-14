@@ -1,6 +1,8 @@
 {
   "name": "js-chatting-front",
   "version": "0.1.0",
+  "repository": "https://github.com/KaiqueSR/js-chatting-front.git",
+	"author": "KaiqueSR",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",

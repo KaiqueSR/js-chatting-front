@@ -1,4 +1,5 @@
 # js-chatting-front
+Front-end for jsChatting.
 
 ## Project setup
 ```
